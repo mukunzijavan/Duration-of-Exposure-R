@@ -1,4 +1,4 @@
-Summarize recorded and net treatment exposure duration,accounting for interruptions between exposure periods.
+
 ## Overview
 This project demonstrates an R workflow for a safety-analysis population:
 - Selecting the Safety Analysis Set (`SAFFL == "Y"`)
